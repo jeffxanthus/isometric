@@ -1,0 +1,16 @@
+   .Link {
+	color: #333
+	
+}
+   .LinkRed {
+	color: #F00;
+	text-decoration: none;
+}
+    a img { /* 此选择器将删除某些浏览器中显示在图像周围的默认蓝色边框（当该图像包含在链接中时） */
+	border: none;
+}
+	.BlueLink {
+	color: #00F;
+	text-decoration: underline;
+	font-weight: bold;
+}

@@ -1,0 +1,24 @@
+   table {
+	   border-color: #CCC;
+	   border-bottom-color:#CCC;
+	   border-left-color:#CCC;
+	   border-right-color:#CCC; 
+   }
+   table td {
+	   border-color: #CCC;
+	   border-bottom-color:#CCC;
+	   border-left-color:#CCC;
+	   border-right-color:#CCC;  
+   }
+   td {
+	   border-color: #CCC;
+	   border-bottom-color:#CCC;
+	   border-left-color:#CCC;
+	   border-right-color:#CCC;
+   }
+   tr {
+	   border-color: #CCC;
+	   border-bottom-color:#CCC;
+	   border-left-color:#CCC;
+	   border-right-color:#CCC;
+   }
